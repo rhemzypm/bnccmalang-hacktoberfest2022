@@ -54,5 +54,5 @@ Secara sederhana, cara berkontribusi dengan hacktoberfest adalah dengan membuat 
 >
 
 ### Terimakasih telah berpartisipasi dalam event ini. 
-
+#Jangan Lupa Follow Instagram BNCC Malang !
 Tes
